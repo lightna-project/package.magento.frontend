@@ -3,7 +3,7 @@
     "description": "Magento Frontend module for Lightna",
     "type": "magento2-module",
     "license": "MIT",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "require": {
         "magento/framework": "^102.0"
     },
